@@ -1,3 +1,10 @@
+# License for Roblox Tooling Cheatbook
+
+This license is used for [Roblox Tooling Cheatbook](https://roblox-cheatbook.github.io):
+
+ - All code in the book is provided under this license.
+ - 3rd-party contributions to the book are accepted under this license.
+
 # The "MIT No Attribution" (MIT-0) License
 
 The "MIT No Attribution" or "MIT-0" license is a modification to the
@@ -28,7 +35,7 @@ language removed fills this need.
 ```
 MIT No Attribution
 
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright 2025 Brooke Rhodes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
